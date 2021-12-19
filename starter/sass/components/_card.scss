@@ -55,6 +55,6 @@
    }
 
    &:hover &__side--front {
-    transform: rotateY(180deg);
+    transform: rotateY(-180deg);
    }
 }
