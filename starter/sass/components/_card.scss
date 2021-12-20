@@ -58,6 +58,14 @@
         background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark), url(../img/nat-5.jpg);
     }
 
+    &__picture--2 {
+        background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark), url(../img/nat-6.jpg);
+    }
+
+    &__picture--3 {
+        background-image: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark), url(../img/nat-7.jpg);
+    }
+
     &__heading {
         font-size: 2.8rem;
         text-transform: uppercase;
@@ -79,6 +87,14 @@
 
     &__heading-span--1 {
         background-image: linear-gradient(to right bottom, rgba($color-secondary-light,0.85), rgba($color-secondary-dark, 0.85));
+    }
+
+    &__heading-span--2 {
+        background-image: linear-gradient(to right bottom, rgba($color-primary-light,0.85), rgba($color-primary-dark, 0.85));
+    }
+
+    &__heading-span--3 {
+        background-image: linear-gradient(to right bottom, rgba($color-tertiary-light,0.85), rgba($color-tertiary-dark, 0.85));
     }
     
 
