@@ -56,13 +56,13 @@ body {
 }
 
 .heading-tertiary {
-font-size: 1.6rem;
+font-size: $default_font_size;
 font-weight: 700;
 text-transform: uppercase;
 }
 
 .paragraph {
-    font-size: 1.6rem;
+    font-size: $default_font_size;
     margin-bottom: 3rem;
 
   /*  &:not(:last-of-type) {
