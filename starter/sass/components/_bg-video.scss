@@ -9,3 +9,9 @@
     z-index: -1;   
 }
 
+.bg-video__content {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
