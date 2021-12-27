@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "concat": "^1.0.3",
     "node-sass": "^7.0.0"
   }
 }
